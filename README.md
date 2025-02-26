@@ -5,7 +5,7 @@
 
 Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later. It's an essential tool for software development, and increasingly for other types of collaborative work. Here's a breakdown of the fundamental concepts and why GitHub is so popular:
 Fundamental Concepts of Version Control:
- * Tracking Changes:
+ * Tracking Changes
    * Version control systems (VCS) keep a history of every modification made to the files under their control. This allows you to see who made what changes and when.
  * Reverting to Previous Versions:
    * If a change introduces a bug or an unwanted result, you can easily revert to a previous, working version of the code.
